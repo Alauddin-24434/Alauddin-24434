@@ -8,13 +8,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alauddin-24434&theme=algolia" alt="GitHub Profile Card" width="100%" >
 
 </p>
+
+<p align="center">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alauddin-24434&theme=algolia">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alauddin-24434&theme=algolia">
+ 
 </p>
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alauddin-24434&theme=algolia" alt="GitHub Profile Card" width="100%" >
-
-</p>
-
-   ![card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alauddin-24434&theme=algolia)  ![cards](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alauddin-24434&theme=algolia&utcOffset=8) ![top langu](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alauddin-24434&theme=algolia)
+  ![top langu](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alauddin-24434&theme=algolia)
 
 
 

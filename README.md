@@ -18,4 +18,4 @@
 
 
 ### Language and Tools 
-![icons](https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,firebase,nodejs,mongo,express,vscode,figma)
+![icons](https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,firebase,nodejs,mongo,express,vscode,figma,git)

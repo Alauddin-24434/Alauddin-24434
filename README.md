@@ -13,6 +13,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alauddin-24434&theme=algolia" alt="GitHub Profile Card" width="100%" >
 
 </p>
- 
+
+   ![card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alauddin-24434&theme=algolia)  ![cards](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alauddin-24434&theme=algolia&utcOffset=8) ![top langu](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alauddin-24434&theme=algolia)
+
+
+
 ### Language and Tools 
 ![icons](https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,firebase,nodejs,mongo,express,vscode,figma)

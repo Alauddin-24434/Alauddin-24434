@@ -16,6 +16,6 @@
 - use react ,tailwindcss, mongodb etc..
   
 ### Language and tools that i know:
-![icons](https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,firebase,nodejs,mongo,express,vscode,figma,git)
+![icons](https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap,react,redux,firebase,nodejs,mongo,express,vscode,figma,git)
 
 

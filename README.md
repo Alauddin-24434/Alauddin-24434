@@ -1,4 +1,4 @@
-<img src="https://github.com/Alauddin-24434/Alauddin-24434/blob/main/github-header-image.png" alt="GitHub Banner" style="width: 100%;"/>
+<img src="https://github.com/Alauddin-24434/Alauddin-24434/blob/main/github-header-image%20(2).png" alt="GitHub Banner" style="width: 100%;"/>
 
 # 📊 GitHub Stats:
 # Hi there! 👋 Welcome to my GitHub!

@@ -1,10 +1,8 @@
 <img src="https://github.com/Alauddin-24434/Alauddin-24434/blob/main/github-header-image%20(2).png" alt="GitHub Banner" style="width: 100%;"/>
 
-# 📊 GitHub Stats:
 # Hi there! 👋 Welcome to my GitHub!
 
 I'm a **Full-Stack Developer** who loves turning ideas into fully functional web applications. From crafting beautiful, responsive UIs to building robust backend systems, I enjoy working on all aspects of development.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-alauddin-muhammad-alauddin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ServiceWeird4737) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdalauddin15)

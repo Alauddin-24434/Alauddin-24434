@@ -1,3 +1,6 @@
+<img src="https://github.com/Alauddin-24434/Alauddin-24434/blob/main/github-header-image.png" alt="GitHub Banner" style="width: 100%;"/>
+
+# 📊 GitHub Stats:
 # Hi there! 👋 Welcome to my GitHub!
 
 I'm a **Full-Stack Developer** who loves turning ideas into fully functional web applications. From crafting beautiful, responsive UIs to building robust backend systems, I enjoy working on all aspects of development.

@@ -45,6 +45,7 @@ I enjoy working with modern technologies on both frontend and backend to deliver
   <!-- Cloud & Hosting -->
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FD7C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="OAuth" src="https://img.shields.io/badge/OAuth2-3949AB?style=for-the-badge&logo=oauth&logoColor=white" />
 
   <!-- Tools & Version Control -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
@@ -55,7 +56,6 @@ I enjoy working with modern technologies on both frontend and backend to deliver
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
   <!-- Testing & Quality -->
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 

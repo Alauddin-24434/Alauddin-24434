@@ -1,7 +1,8 @@
 # Hi, I'm Alauddin 👋
 
-I'm a dedicated **Full-Stack Developer** specializing in building scalable, maintainable, and user-friendly web applications.  
-I enjoy working with modern technologies on both frontend and backend to deliver high-quality software solutions.
+I am a Full-Stack Developer who loves making websites and web applications that are simple, fast, and easy to use.
+I work with the latest tools on both frontend and backend to build things that help people.
+I’m always excited to learn new skills and improve my work.
 
 ---
 

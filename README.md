@@ -53,6 +53,7 @@ I enjoy working with modern technologies on both frontend and backend to deliver
   <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="PNPM" src="https://img.shields.io/badge/PNPM-CB3837?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img alt="winston" src="https://img.shields.io/badge/winston-2496ED?style=for-the-badge&logo=winston&logoColor=white" />
+    <img alt="jose" src="https://img.shields.io/badge/jose-2496ED?style=for-the-badge&logo=jose&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
   <!-- Testing & Quality -->

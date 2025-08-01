@@ -2,19 +2,19 @@
 ![Banner](https://github.com/Alauddin-24434/Alauddin-24434/blob/main/github-profile.png)
 
 
-# Hi there, I'm Alauddin! 👋
-
-I'm a passionate **Full-Stack Developer** focused on building fast, reliable, and user-friendly web applications that solve real problems. My goal is to use modern technology to create solutions that are not just functional, but genuinely helpful. I thrive on continuous learning and am always excited to improve my craft.
-
-
+👋 I'm a Full-Stack Developer who enjoys building fast, reliable, and user-friendly web applications. I focus on solving real-world problems through clean and modern technology. I'm always excited to learn and get better as a developer.
 
 ### 🚀 What I Do
 
-* **Frontend Development:** Crafting responsive and interactive user interfaces with **React**, **Next.js**, and **Tailwind CSS**.
-* **Backend Development:** Building robust and efficient APIs using **Node.js** and **Express.js**.
-* **Database Management:** Managing data with **MongoDB**, **PostgreSQL**, and **Supabase**.
-* **Code Quality:** Writing clean, maintainable code with a strong focus on **TypeScript** and **JavaScript** best practices.
-* **Deployment:** Deploying and maintaining applications on platforms like **Vercel** and **Firebase**.
+**Frontend:** I build modern, mobile-friendly websites using **Next.js**, **React**, and **Tailwind CSS**.
+
+**Backend:** I create powerful and secure APIs with **Node.js** and **Express.js**.
+
+**Database:** I manage and store data using **MongoDB**, **PostgreSQL**, and **Supabase**.
+
+**TypeScript:** I write clean and error-free code using **TypeScript** and **JavaScript**.
+
+**Deployment:** I host and manage apps on **Vercel**, **Railway**, and **Firebase**.
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdalauddin15) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alsajjad.islam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alauddin-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alauddin150900@gmail.com) 

@@ -1,5 +1,5 @@
 
-![Banner](https://raw.githubusercontent.com/Alauddin-24434/Alauddin-24434/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![Banner](https://github.com/Alauddin-24434/Alauddin-24434/blob/main/github-profile.png)
 
 
 # Hi there, I'm Alauddin! 👋

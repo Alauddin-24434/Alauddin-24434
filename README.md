@@ -1,3 +1,7 @@
+
+![Banner](https://raw.githubusercontent.com/Alauddin-24434/Alauddin-24434/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
+
 # Hi there, I'm Alauddin! 👋
 
 I'm a passionate **Full-Stack Developer** focused on building fast, reliable, and user-friendly web applications that solve real problems. My goal is to use modern technology to create solutions that are not just functional, but genuinely helpful. I thrive on continuous learning and am always excited to improve my craft.

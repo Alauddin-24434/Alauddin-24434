@@ -4,9 +4,9 @@
 
 👋 I'm a Full-Stack Developer who enjoys building fast, reliable, and user-friendly web applications. I focus on solving real-world problems through clean and modern technology. I'm always excited to learn and get better as a developer.
 
-### 🚀 What I Do
+## 🚀 What I Do
 
-**Frontend:** I build modern, mobile-friendly websites using **Next.js**, **React**, and **Tailwind CSS**.
+**Frontend:** I build modern, mobile-friendly websites using **Next.js**, **React**, **Tailwind CSS** and **Redux**.
 
 **Backend:** I create powerful and secure APIs with **Node.js** and **Express.js**.
 
@@ -14,12 +14,16 @@
 
 **TypeScript:** I write clean and error-free code using **TypeScript** and **JavaScript**.
 
+**Authentication & Authorization:** Implement secure login systems using **JSON Web Tokens (JWT)** and **cookies**.
+
+**File Upload**: Handle file uploads with **Multer** and **Cloudinary** for fast delivery.
+
 **Deployment:** I host and manage apps on **Vercel**, **Railway**, and **Firebase**.
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdalauddin15) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alsajjad.islam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alauddin-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alauddin150900@gmail.com) 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -57,7 +61,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 

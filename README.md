@@ -63,12 +63,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Alauddin-24434&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alauddin-24434&theme=dark&hide_border=false)<br/>
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Alauddin-24434&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Alauddin-24434&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alauddin-24434&theme=radical&no-frame=false&no-bg=true&margin-w=4)

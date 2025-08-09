@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/Alauddin-24434/Alauddin-24434/blob/main/Md%20Alauddin%20(2).png)
+![Banner](https://github.com/Alauddin-24434/Alauddin-24434/blob/main/Untitled%20design.png)
 
 
 👋 I'm a Full-Stack Developer who enjoys building fast, reliable, and user-friendly web applications. I focus on solving real-world problems through clean and modern technology. I'm always excited to learn and get better as a developer.

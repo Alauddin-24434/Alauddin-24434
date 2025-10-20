@@ -4,19 +4,26 @@
 
 ## 🚀 What I Do
 
-**Frontend:** I build modern, mobile-friendly websites using **Next.js**, **React**, **Tailwind CSS** and **Redux**.
+**Frontend:** I build modern, mobile-friendly websites using **Next.js**, **React**, **Tailwind CSS**, and **Redux**.
 
-**Backend:** I create powerful and secure APIs with **Node.js** and **Express.js**.
+**Backend:** I create powerful, scalable, and secure RESTful APIs using **Node.js** and **Express.js**.
 
-**Database:** I manage and store data using **MongoDB**, **PostgreSQL**, and **Supabase**.
+**Database:** I design and manage efficient data storage with **MongoDB**, **PostgreSQL**, and **Supabase**.
 
-**TypeScript:** I write clean and error-free code using **TypeScript** and **JavaScript**.
+**TypeScript:** I write clean, maintainable, and type-safe code using **TypeScript** and **JavaScript**.
 
-**Authentication & Authorization:** Implement secure login systems using **JSON Web Tokens (JWT)** and **cookies**.
+**Authentication & Authorization:** I implement secure login and access control systems using **JSON Web Tokens (JWT)** and **cookies**.
 
-**File Upload**: Handle file uploads with **Multer** and **Cloudinary** for fast delivery.
+**File Upload:** I handle file uploads with **Multer** and **Cloudinary**, ensuring optimized media delivery.
 
-**Deployment:** I host and manage apps on **Vercel**, **Railway**, and **Firebase**.
+**Caching & Performance:** I boost backend performance using **Redis** for caching and session management.
+
+**Process Management:** I manage and monitor production Node.js applications using **PM2**.
+
+**Reverse Proxy & Load Balancing:** I use **Nginx** to handle reverse proxy, SSL setup, and load balancing for scalable deployments.
+
+**Deployment:** I deploy and manage full-stack applications on **Vercel**, **Railway**, **Render**, and **Firebase**.
+
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdalauddin15) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alsajjad.islam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alauddin-dev) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alauddin150900@gmail.com)
@@ -25,7 +32,6 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -38,6 +44,7 @@
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
@@ -53,6 +60,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/pm2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
